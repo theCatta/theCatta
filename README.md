@@ -5,7 +5,7 @@ Hello there! This profile is used with the intention of displaying codes made fo
 
 ### About me
 
-- I'm 19 years old.
+- I'm 20 years old.
 - I'm currently studying Analysis and Systems Development at IFSP - Cubatão.
 - I'm an Electronics Technician graduated from ETEC Aristóteles Ferreira.
 - Im focus in conciliate my learning with my personal interesses which motivates me to find new methods of combining programming with things i enjoy doing it on my dayli.
